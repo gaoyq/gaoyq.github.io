@@ -1,1 +1,9 @@
+# Site settings
 theme: jekyll-theme-cayman
+title: gaoyq blog
+SEOTitle: gaoyq blog | nihao
+email: g3plan@163.com
+url: "https://gaoyq.github.io"
+
+# Sidebar settings
+sidebar: true
